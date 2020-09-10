@@ -1,0 +1,4866 @@
+November 23rd, 1982
+Bulletin: 
+Entrants require passport
+Allow citizens of Arstotzka
+Wanted by the State: Omid Lindberg
+************************************************
+passport
+
+NATION: Impor
+DOB: 1955.04.07
+SEX: M
+ISS: Tsunkeido
+ID#: Q7246-CSTCD
+EXP: 1984.07.23
+NAME: Zeitsoff, Petr
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1959.09.08
+SEX: M
+ISS: Great Rapid
+ID#: RSI5R-X1HP7
+EXP: 1983.12.21
+NAME: Wolfe, Peter
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1938.11.11
+SEX: M
+ISS: Bostan
+ID#: TMLJM-QEYOB
+EXP: 1982.05.01
+NAME: Lindberg, Omid
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1925.08.04
+SEX: M
+ISS: East Grestin
+ID#: P8DKQ-S4BM7
+EXP: 1981.04.16
+NAME: Pejic, Benito
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1940.04.22
+SEX: F
+ISS: Lorndaz
+ID#: MOILU-R9BQE
+EXP: 1983.12.05
+NAME: Lima, Ivanka
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1940.02.05
+SEX: M
+ISS: Yurko City
+ID#: YYFJ6-KRCCE
+EXP: 1985.12.18
+NAME: Nilsson, Dominik
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1940.03.11
+SEX: F
+ISS: Yurko City
+ID#: OSTBW-LRWJS
+EXP: 1984.06.19
+NAME: Praskovic, Natalya
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1943.01.08
+SEX: M
+ISS: Lorndaz
+ID#: EO0B1-ZPYWS
+EXP: 1984.10.23
+NAME: Jensen, Aaron
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1916.03.01
+SEX: M
+ISS: Haihan
+ID#: XYQUP-Q6QAS
+EXP: 1982.01.16
+NAME: Owsianka, Aleksandr
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1952.02.23
+SEX: M
+ISS: Bostan
+ID#: O77ZG-Z55T0
+EXP: 1984.06.17
+NAME: Steinberg, Petr
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1937.03.18
+SEX: F
+ISS: St. Marmero
+ID#: VVR46-IHOAX
+EXP: 1981.07.24
+NAME: Leonov, Elena
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1922.11.30
+SEX: F
+ISS: Paradizna
+ID#: MSJYP-UKOON
+EXP: 1984.09.14
+NAME: Lima, Teresa
+
+---------------------------------------------------
+November 24th, 1982
+Bulletin: 
+Allow citizens of Antegria, Impor, Kolechia, Obristan, Republia, United Federation
+Wanted by the State: Michelle Owsianka
+************************************************
+passport
+
+NATION: Obristan
+DOB: 1921.11.26
+SEX: F
+ISS: Skal
+ID#: HIJ0C-W824T
+EXP: 1983.12.26
+NAME: Owsianka, Michelle
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1916.10.03
+SEX: M
+ISS: Orvech Vonor
+ID#: VOFW4-TNEEJ
+EXP: 1984.05.05
+NAME: Evans, Johann
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1924.10.31
+SEX: M
+ISS: Tsunkeido
+ID#: VEYEN-WGEKS
+EXP: 1982.11.30
+NAME: Lovska, Stanislav
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1933.01.12
+SEX: F
+ISS: True Glorian
+ID#: H58RD-Q2ZOW
+EXP: 1983.11.05
+NAME: Maars, Elena
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1961.08.13
+SEX: F
+ISS: True Glorian
+ID#: NG9X3-HE691
+EXP: 1984.10.11
+NAME: Pejic, Roberta
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1917.05.22
+SEX: F
+ISS: Paradizna
+ID#: WK5T2-IJT0B
+EXP: 1983.02.01
+NAME: Novak, Freja
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1920.11.07
+SEX: M
+ISS: Tsunkeido
+ID#: M7PZ2-LQOWU
+EXP: 1983.10.18
+NAME: Klass, Evgeny
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1942.08.01
+SEX: M
+ISS: Lesrenadi
+ID#: BY88E-B3C61
+EXP: 1984.04.27
+NAME: Lang, Bernard
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1922.11.12
+SEX: F
+ISS: Enkyo
+ID#: PR9G8-TBRI2
+EXP: 1982.06.07
+NAME: Kreczmanski, Tatyana
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1919.08.30
+SEX: M
+ISS: Orvech Vonor
+ID#: QB3KD-WY04S
+EXP: 1983.11.18
+NAME: Borg, Luis
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1919.10.19
+SEX: F
+ISS: Shingleton
+ID#: ZBZXQ-CJ1CR
+EXP: 1985.06.11
+NAME: Romanowski, Tatyana
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1940.08.07
+SEX: M
+ISS: Mergerous
+ID#: FUJY9-IEJM5
+EXP: 1984.08.22
+NAME: Graham, Aleksi
+
+---------------------------------------------------
+November 25th, 1982
+Bulletin: 
+Foreigners require access permit
+Wanted by the State: Christina Reed
+************************************************
+passport
+
+NATION: Obristan
+DOB: 1935.10.30
+SEX: M
+ISS: Lorndaz
+ID#: VLOGR-Q9AC0
+EXP: 1983.04.28
+NAME: Krug, Cesar
+
+grant_of_asylum
+
+NAME: Krug, Cesar
+NATION: Obristan
+ID#: VLOGR-Q9AC0
+DOB: 1935.10.30
+HEIGHT: 188.0cm
+WEIGHT: 102.0kg
+EXP: 1981.06.17
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1923.12.05
+SEX: M
+ISS: West Grestin
+ID#: JKH6O-OGW5G
+EXP: 1984.04.25
+NAME: Feyd, Zachary
+
+access_permit
+
+NAME: Feyd, Zachary
+NATION: Kolechia
+ID#: JKH6O-OGW5G
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 162.0cm
+WEIGHT: 65.0kg
+EXP: 1984.05.14
+
+---------------------------------------------------
+work_pass
+
+NAME: Sousa, Omid
+FIELD: Dentistry
+EXP: 1981.05.04
+
+passport
+
+NATION: Obristan
+DOB: 1954.01.30
+SEX: M
+ISS: Skal
+ID#: CN38S-ZVPBR
+EXP: 1984.12.01
+NAME: Sousa, Omid
+
+access_permit
+
+NAME: Sousa, Omid
+NATION: Obristan
+ID#: GGJYN-MDRPQ
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 189.0cm
+WEIGHT: 103.0kg
+EXP: 1983.08.16
+
+---------------------------------------------------
+work_pass
+
+NAME: Romanov, Pyotr
+FIELD: General labor
+EXP: 1982.02.24
+
+passport
+
+NATION: Obristan
+DOB: 1932.03.10
+SEX: M
+ISS: Lorndaz
+ID#: NS2OF-YM2H7
+EXP: 1984.11.10
+NAME: Romanov, Pyotr
+
+access_permit
+
+NAME: Romanov, Pyotr
+NATION: Obristan
+ID#: NS2OF-YM2H7
+PURPOSE: WORK
+DURATION: 1 MONTH
+HEIGHT: 147.0cm
+WEIGHT: 43.0kg
+EXP: 1984.01.01
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1942.05.31
+SEX: F
+ISS: Mergerous
+ID#: LSE4R-I5XFP
+EXP: 1982.11.28
+NAME: Savelle, Felicia
+
+access_permit
+
+NAME: Savelle, Felicia
+NATION: Obristan
+ID#: LSE4R-I5XFP
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 166.0cm
+WEIGHT: 71.0kg
+EXP: 1983.08.14
+
+---------------------------------------------------
+access_permit
+
+NAME: Heintz, Edine
+NATION: Antegria
+ID#: MZJTX-TSE3O
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 149.0cm
+WEIGHT: 45.0kg
+EXP: 1985.09.13
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1931.03.03
+SEX: M
+ISS: Enkyo
+ID#: MQ5AM-VG1CG
+EXP: 1984.10.25
+NAME: Blanco, Hayden
+
+access_permit
+
+NAME: Blanco, Hayden
+NATION: Impor
+ID#: MQ5AM-VG1CG
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 149.0cm
+WEIGHT: 46.0kg
+EXP: 1985.06.11
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1920.06.23
+SEX: F
+ISS: Tsunkeido
+ID#: QPOSM-GJMWV
+EXP: 1983.06.13
+NAME: Sajarvi, Olga
+
+access_permit
+
+NAME: Sajarvi, Olga
+NATION: Kolechia
+ID#: QPOSM-GJMWV
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 182.0cm
+WEIGHT: 93.0kg
+EXP: 1983.09.28
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1956.02.21
+SEX: F
+ISS: Paradizna
+ID#: SVT6U-MQ98J
+EXP: 1983.03.03
+NAME: Kierkgaard, Karina
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1944.06.21
+SEX: F
+ISS: Lorndaz
+ID#: WVV4C-KC12D
+EXP: 1984.11.26
+NAME: Reed, Christina
+
+access_permit
+
+NAME: Reed, Christina
+NATION: Obristan
+ID#: WVV4C-KC12D
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 151.0cm
+WEIGHT: 49.0kg
+EXP: 1984.09.09
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1927.07.10
+SEX: F
+ISS: Vedor
+ID#: TOIUG-AP53X
+EXP: 1985.06.27
+NAME: Macek, Michaela
+
+access_permit
+
+NAME: Macek, Michaela
+NATION: Kolechia
+ID#: TOIUG-AP53X
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 167.0cm
+WEIGHT: 73.0kg
+EXP: 1983.10.16
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1940.05.31
+SEX: M
+ISS: Shingleton
+ID#: GG0PQ-CLXM8
+EXP: 1983.02.20
+NAME: Kremenliev, Piotr
+
+diplomatic_authorization
+
+NATION: United Federation
+NAME: Kremenliev, Piotr
+ID#: GG0PQ-CLXM8
+ACCESS: Arstotzka, Antegria
+
+---------------------------------------------------
+November 26th, 1982
+Bulletin: 
+Citizens of Arstotzka require ID card
+Deny citizens of Obristan
+Wanted by the State: Dominik Tolaj
+************************************************
+passport
+
+NATION: Impor
+DOB: 1940.11.12
+SEX: M
+ISS: Tsunkeido
+ID#: V6XHW-RP963
+EXP: 1983.01.29
+NAME: Romanov, Olec
+
+access_permit
+
+NAME: Romanov, Olec
+NATION: Impor
+ID#: V6XHW-RP963
+PURPOSE: VISIT
+DURATION: 3 MONTHS
+HEIGHT: 167.0cm
+WEIGHT: 72.0kg
+EXP: 1983.10.19
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1942.08.18
+SEX: F
+ISS: Orvech Vonor
+ID#: Q20E8-FLAV9
+EXP: 1985.07.10
+NAME: Reed, Nikola
+
+ID_card
+
+NAME: Reed, Nikola
+DOB: 1942.08.18
+HEIGHT: 185.0cm
+WEIGHT: 97.0kg
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1925.07.16
+SEX: M
+ISS: Haihan
+ID#: HIVCD-K05KO
+EXP: 1981.08.23
+NAME: Fischer, Ahmad
+
+access_permit
+
+NAME: Fischer, Ahmad
+NATION: Impor
+ID#: HIVCD-K05KO
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 165.0cm
+WEIGHT: 69.0kg
+EXP: 1984.10.04
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1927.04.08
+SEX: M
+ISS: St. Marmero
+ID#: F7X6R-COWB3
+EXP: 1984.06.07
+NAME: Petrova, Adam
+
+access_permit
+
+NAME: Petrova, Adam
+NATION: Antegria
+ID#: F7X6R-COWB3
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 182.0cm
+WEIGHT: 93.0kg
+EXP: 1984.09.25
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1947.09.13
+SEX: F
+ISS: Outer Grouse
+ID#: PA607-ANZUJ
+EXP: 1985.11.21
+NAME: Spektor, Stefani
+
+access_permit
+
+NAME: Spektor, Stefani
+NATION: Antegria
+ID#: PA607-ANZUJ
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 176.0cm
+WEIGHT: 84.0kg
+EXP: 1983.07.10
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1954.04.03
+SEX: M
+ISS: Shingleton
+ID#: U53MM-TXBSS
+EXP: 1983.02.15
+NAME: Tolaj, Dominik
+
+access_permit
+
+NAME: Tolaj, Dominik
+NATION: Antegria
+ID#: U53MM-TXBSS
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 145.0cm
+WEIGHT: 40.0kg
+EXP: 1983.10.23
+
+---------------------------------------------------
+work_pass
+
+NAME: Frederikson, Simon
+FIELD: Surveying
+EXP: 1981.04.30
+
+passport
+
+NATION: Antegria
+DOB: 1938.05.23
+SEX: M
+ISS: Glorian
+ID#: OZ548-LFH1Q
+EXP: 1983.04.26
+NAME: Frederikson, Simon
+
+access_permit
+
+NAME: Frederikson, Simon
+NATION: Antegria
+ID#: OZ548-LFH1Q
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 175.0cm
+WEIGHT: 84.0kg
+EXP: 1984.02.20
+
+---------------------------------------------------
+work_pass
+
+NAME: Ramos, Yulia
+FIELD: Surveying
+EXP: 1984.08.26
+
+passport
+
+NATION: Obristan
+DOB: 1922.11.18
+SEX: F
+ISS: Skal
+ID#: W4HDU-AZ29A
+EXP: 1984.12.16
+NAME: Ramos, Yulia
+
+access_permit
+
+NAME: Ramos, Yulia
+NATION: Obristan
+ID#: W4HDU-AZ29A
+PURPOSE: WORK
+DURATION: 3 MONTHS
+HEIGHT: 182.0cm
+WEIGHT: 93.0kg
+EXP: 1986.12.30
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1914.11.24
+SEX: M
+ISS: Mergerous
+ID#: YLZEF-T42ZE
+EXP: 1983.08.01
+NAME: Stoyakovich, Sebastian
+
+diplomatic_authorization
+
+NATION: Obristan
+NAME: Stoyakovich, Sebastian
+ID#: YLZEF-T42ZE
+ACCESS: Arstotzka, Impor, Antegria, Kolechia
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1957.12.26
+SEX: F
+ISS: Lesrenadi
+ID#: YCPJU-AIVS4
+EXP: 1985.11.28
+NAME: Stolichnaya, Renee
+
+access_permit
+
+NAME: Stolichnaya, Renee
+NATION: Kolechia
+ID#: YCPJU-AIVS4
+PURPOSE: WORK
+DURATION: 3 MONTHS
+HEIGHT: 164.0cm
+WEIGHT: 68.0kg
+EXP: 1985.04.07
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1929.04.08
+SEX: M
+ISS: Orvech Vonor
+ID#: Q89WA-EGD78
+EXP: 1983.09.16
+NAME: Atreides, Maciej
+
+ID_card
+
+NAME: Atreides, Maciej
+DOB: 1929.04.08
+HEIGHT: 158.0cm
+WEIGHT: 60.0kg
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1947.12.23
+SEX: M
+ISS: Vedor
+ID#: JQVHH-BTJ1R
+EXP: 1985.06.18
+NAME: Malkova, Josef
+
+access_permit
+
+NAME: Malkova, Josef
+NATION: Kolechia
+ID#: JQVHH-BTJ1R
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 157.0cm
+WEIGHT: 58.0kg
+EXP: 1983.04.18
+
+---------------------------------------------------
+November 27th, 1982
+Bulletin: 
+Deny citizens of Obristan
+Entrants require typhus vaccination
+Wanted by the State: Freja Crechiolo
+************************************************
+passport
+
+NATION: Impor
+DOB: 1919.09.11
+SEX: F
+ISS: Tsunkeido
+ID#: FCCR6-KT7IQ
+EXP: 1984.07.07
+NAME: Crechiolo, Freja
+
+access_permit
+
+NAME: Crechiolo, Freja
+NATION: Kolechia
+ID#: FCCR6-KT7IQ
+PURPOSE: VISIT
+DURATION: 2 MONTHS
+HEIGHT: 168.0cm
+WEIGHT: 74.0kg
+EXP: 1984.03.18
+
+certificate_of_vaccination
+
+NAME: Crechiolo, Freja
+ID#: FCCR6-KT7IQ
+VACCINES: tetanus, polio, tuberculosis
+
+---------------------------------------------------
+work_pass
+
+NAME: Pejic, Vincent
+FIELD: General labor
+EXP: 1984.12.13
+
+passport
+
+NATION: Kolechia
+DOB: 1950.10.06
+SEX: M
+ISS: West Grestin
+ID#: PBJWW-IXLXE
+EXP: 1984.09.24
+NAME: Pejic, Vincent
+
+access_permit
+
+NAME: Pejic, Vincent
+NATION: Kolechia
+ID#: PBJWW-IXLXE
+PURPOSE: WORK
+DURATION: 3 MONTHS
+HEIGHT: 170.0cm
+WEIGHT: 77.0kg
+EXP: 1981.02.22
+
+certificate_of_vaccination
+
+NAME: Pejic, Vincent
+ID#: PBJWW-IXLXE
+VACCINES: typhus, polio, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1956.04.29
+SEX: M
+ISS: Tsunkeido
+ID#: A4KPM-BQDBO
+EXP: 1984.06.16
+NAME: Ramos, Artour
+
+access_permit
+
+NAME: Ramos, Artour
+NATION: Impor
+ID#: A4KPM-BQDBO
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 176.0cm
+WEIGHT: 84.0kg
+EXP: 1981.05.09
+
+certificate_of_vaccination
+
+NAME: Ramos, Artour
+ID#: A4KPM-BQDBO
+VACCINES: typhus, cowpox, tuberculosis
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1959.01.14
+SEX: M
+ISS: Lorndaz
+ID#: WLYNV-SN0WC
+EXP: 1984.02.21
+NAME: Strauss, Vadim
+
+access_permit
+
+NAME: Strauss, Vadim
+NATION: Obristan
+ID#: WLYNV-SN0WC
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 148.0cm
+WEIGHT: 44.0kg
+EXP: 1985.06.18
+
+certificate_of_vaccination
+
+NAME: Strauss, Vadim
+ID#: WLYNV-SN0WC
+VACCINES: polio, tetanus, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1938.05.26
+SEX: F
+ISS: West Grestin
+ID#: P3CNP-TGDTZ
+EXP: 1984.11.02
+NAME: Zajak, Yulia
+
+access_permit
+
+NAME: Zajak, Yulia
+NATION: Kolechia
+ID#: P3CNP-TGDTZ
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 160.0cm
+WEIGHT: 62.0kg
+EXP: 1982.12.04
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1961.08.28
+SEX: F
+ISS: Mergerous
+ID#: KF8L4-VJ400
+EXP: 1984.10.21
+NAME: Jager, Michaela
+
+grant_of_asylum
+
+NAME: Jager, Michaela
+NATION: Obristan
+ID#: KF8L4-VJ400
+DOB: 1961.08.28
+HEIGHT: 162.0cm
+WEIGHT: 64.0kg
+EXP: 1984.03.13
+
+certificate_of_vaccination
+
+NAME: Jager, Michaela
+ID#: KF8L4-VJ400
+VACCINES: typhus, polio, HPV
+
+---------------------------------------------------
+work_pass
+
+NAME: Romanowski, Adam
+FIELD: Construction
+EXP: 1982.04.17
+
+access_permit
+
+NAME: Romanowski, Adam
+NATION: Antegria
+ID#: H92IB-E3VC8
+PURPOSE: WORK
+DURATION: 1 YEAR
+HEIGHT: 168.0cm
+WEIGHT: 73.0kg
+EXP: 1983.02.03
+
+certificate_of_vaccination
+
+NAME: Romanowski, Adam
+ID#: H92IB-E3VC8
+VACCINES: typhus, cowpox, HPV
+
+---------------------------------------------------
+work_pass
+
+NAME: Karlsson, Jennifer
+FIELD: Engineering
+EXP: 1983.10.29
+
+passport
+
+NATION: Antegria
+DOB: 1916.01.18
+SEX: F
+ISS: Glorian
+ID#: GJLZZ-R99UL
+EXP: 1983.05.05
+NAME: Karlsson, Jennifer
+
+access_permit
+
+NAME: Karlsson, Jennifer
+NATION: Republia
+ID#: GJLZZ-R99UL
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 176.0cm
+WEIGHT: 84.0kg
+EXP: 1984.08.24
+
+certificate_of_vaccination
+
+NAME: Karlsson, Jennifer
+ID#: GJLZZ-R99UL
+VACCINES: typhus, polio, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1922.03.29
+SEX: F
+ISS: Vedor
+ID#: LWE1S-GFQ91
+EXP: 1981.06.05
+NAME: Jacobs, Ekaterina
+
+access_permit
+
+NAME: Jacobs, Ekaterina
+NATION: Kolechia
+ID#: LWE1S-GFQ91
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 183.0cm
+WEIGHT: 95.0kg
+EXP: 1984.02.10
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1928.01.27
+SEX: M
+ISS: Great Rapid
+ID#: YBDR2-GZGB7
+EXP: 1984.11.28
+NAME: Guillot, Werner
+
+certificate_of_vaccination
+
+NAME: Guillot, Werner
+ID#: YBDR2-GZGB7
+VACCINES: typhus, cowpox, HPV
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1943.02.12
+SEX: M
+ISS: Shingleton
+ID#: MEUTQ-OD8ED
+EXP: 1981.05.21
+NAME: Kreczmanski, Leonid
+
+access_permit
+
+NAME: Kreczmanski, Leonid
+NATION: United Federation
+ID#: F1OFB-SLPN0
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 177.0cm
+WEIGHT: 86.0kg
+EXP: 1983.04.26
+
+certificate_of_vaccination
+
+NAME: Kreczmanski, Leonid
+ID#: MEUTQ-OD8ED
+VACCINES: typhus, polio, cholera
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1925.10.02
+SEX: F
+ISS: Yurko City
+ID#: G55T1-T1FDT
+EXP: 1984.02.01
+NAME: Jokav, Georgia
+
+certificate_of_vaccination
+
+NAME: Jokav, Georgia
+ID#: G55T1-T1FDT
+VACCINES: polio, HPV, hepatitis B
+
+diplomatic_authorization
+
+NATION: Kolechia
+NAME: Jokav, Georgia
+ID#: G55T1-T1FDT
+ACCESS: Kolechia, Obristan
+
+---------------------------------------------------
+November 28th, 1982
+Bulletin: 
+Allow citizens of Obristan
+Deny citizens of Kolechia
+Wanted by the State: Julia Lang
+************************************************
+passport
+
+NATION: United Federation
+DOB: 1947.10.07
+SEX: M
+ISS: Korista City
+ID#: UCCLM-EY2MM
+EXP: 1983.05.11
+NAME: Zeitsoff, Peter
+
+certificate_of_vaccination
+
+NAME: Zeitsoff, Peter
+ID#: UCCLM-EY2MM
+VACCINES: typhus, tetanus, polio
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1925.05.23
+SEX: F
+ISS: Yurko City
+ID#: ZQRAN-UPK2U
+EXP: 1984.07.01
+NAME: Praskovic, Petra
+
+access_permit
+
+NAME: Praskovic, Petra
+NATION: Kolechia
+ID#: ZQRAN-UPK2U
+PURPOSE: VISIT
+DURATION: 2 MONTHS
+HEIGHT: 171.0cm
+WEIGHT: 78.0kg
+EXP: 1984.07.25
+
+certificate_of_vaccination
+
+NAME: Praskovic, Petra
+ID#: ZQRAN-UPK2U
+VACCINES: hepatitis B, cowpox, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1923.01.22
+SEX: F
+ISS: Paradizna
+ID#: XEC4O-NM5LP
+EXP: 1985.03.04
+NAME: Lang, Julia
+
+ID_card
+
+NAME: Vazquez, Rachel
+DOB: 1923.01.22
+HEIGHT: 154.0cm
+WEIGHT: 54.0kg
+
+certificate_of_vaccination
+
+NAME: Vazquez, Rachel
+ID#: XEC4O-NM5LP
+VACCINES: typhus, polio, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1929.04.26
+SEX: F
+ISS: Outer Grouse
+ID#: XXVDE-U0O4U
+EXP: 1983.05.05
+NAME: Nilsson, Ivanka
+
+access_permit
+
+NAME: Nilsson, Ivanka
+NATION: Antegria
+ID#: XXVDE-U0O4U
+PURPOSE: VISIT
+DURATION: 1 MONTH
+HEIGHT: 182.0cm
+WEIGHT: 94.0kg
+EXP: 1984.02.05
+
+certificate_of_vaccination
+
+NAME: Nilsson, Ivanka
+ID#: XXVDE-U0O4U
+VACCINES: typhus, cowpox, tuberculosis
+
+---------------------------------------------------
+access_permit
+
+NAME: Bennet, Jonathan
+NATION: Kolechia
+ID#: CDMAL-BJ84D
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 154.0cm
+WEIGHT: 53.0kg
+EXP: 1985.06.26
+
+certificate_of_vaccination
+
+NAME: Bennet, Jonathan
+ID#: CDMAL-BJ84D
+VACCINES: typhus, hepatitis B, cowpox
+
+
+expected:<Entry denied: [missing required passport].> but was:<Entry denied: [citizen of banned nation].>
+---------------------------------------------------
+
+
+November 23rd, 1982
+Bulletin: 
+Entrants require passport
+Allow citizens of Arstotzka
+Wanted by the State: Josef Khan
+************************************************
+passport
+
+NATION: Obristan
+DOB: 1921.12.27
+SEX: M
+ISS: Lorndaz
+ID#: GSOXX-QBIOJ
+EXP: 1984.06.08
+NAME: Khan, Josef
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1960.06.26
+SEX: M
+ISS: Korista City
+ID#: NUFE9-K5F14
+EXP: 1981.04.24
+NAME: Chernovski, Azeem
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1917.05.12
+SEX: M
+ISS: Orvech Vonor
+ID#: L03P6-LUV5L
+EXP: 1983.10.12
+NAME: Feyd, Pyotr
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1914.06.21
+SEX: F
+ISS: Lesrenadi
+ID#: LRXJO-KUMFK
+EXP: 1984.11.03
+NAME: Atreides, Erika
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1920.04.28
+SEX: M
+ISS: Bostan
+ID#: KFUV5-R3LQI
+EXP: 1983.10.24
+NAME: Hansson, Nico
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1962.12.07
+SEX: M
+ISS: Skal
+ID#: ZZ427-NLU99
+EXP: 1985.08.03
+NAME: Grech, Igor
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1958.05.04
+SEX: F
+ISS: Skal
+ID#: OE38A-RMHQ1
+EXP: 1983.08.25
+NAME: Lindberg, Yulia
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1926.06.28
+SEX: F
+ISS: Orvech Vonor
+ID#: PIB6Z-E80OL
+EXP: 1984.09.12
+NAME: Hansson, Elizabeth
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1940.02.11
+SEX: M
+ISS: Glorian
+ID#: ZZOXZ-MI3ON
+EXP: 1985.07.01
+NAME: Malkova, Lukas
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1954.12.10
+SEX: F
+ISS: Lesrenadi
+ID#: GDQER-MMK9K
+EXP: 1984.08.17
+NAME: Young, Lydia
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1959.07.14
+SEX: F
+ISS: Orvech Vonor
+ID#: ORBHP-QIE9T
+EXP: 1983.08.06
+NAME: Conrad, Wilma
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1918.10.17
+SEX: F
+ISS: St. Marmero
+ID#: FTVCD-P4J4Y
+EXP: 1983.04.03
+NAME: Hansson, Freja
+
+---------------------------------------------------
+November 24th, 1982
+Bulletin: 
+Allow citizens of Antegria, Impor, Kolechia, Obristan, Republia, United Federation
+Wanted by the State: Mila Bergman
+************************************************
+passport
+
+NATION: United Federation
+DOB: 1951.11.11
+SEX: F
+ISS: Korista City
+ID#: LRNSV-WSOOZ
+EXP: 1982.12.01
+NAME: Watson, Tatyana
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1935.01.03
+SEX: M
+ISS: Mergerous
+ID#: ALM40-HBX7L
+EXP: 1985.03.04
+NAME: Schneider, Aleksi
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1942.01.03
+SEX: M
+ISS: Tsunkeido
+ID#: F93Q6-LAXBJ
+EXP: 1983.05.17
+NAME: Young, Fyodor
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1938.08.08
+SEX: M
+ISS: Bostan
+ID#: XMCQN-LAE9K
+EXP: 1985.10.20
+NAME: Kirsch, Olec
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1914.02.07
+SEX: F
+ISS: Mergerous
+ID#: Z2WHW-JX7UN
+EXP: 1985.08.06
+NAME: Jovanovic, Antonia
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1931.09.28
+SEX: F
+ISS: West Grestin
+ID#: J64ZB-O2A94
+EXP: 1985.10.02
+NAME: Sorenson, Katherine
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1940.10.08
+SEX: F
+ISS: West Grestin
+ID#: NIRLH-IO3JM
+EXP: 1985.08.05
+NAME: Pejic, Heidi
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1939.09.13
+SEX: F
+ISS: Outer Grouse
+ID#: E1O1J-ORM1P
+EXP: 1984.12.17
+NAME: Kirsch, Katherine
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1959.12.10
+SEX: F
+ISS: Lorndaz
+ID#: X6RY1-ZNE0X
+EXP: 1985.11.14
+NAME: Bergman, Mila
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1937.01.15
+SEX: F
+ISS: Bostan
+ID#: YEAG1-WNE5U
+EXP: 1982.12.24
+NAME: Khan, Josephine
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1944.01.18
+SEX: M
+ISS: Enkyo
+ID#: M8HVF-IMF2D
+EXP: 1983.08.01
+NAME: Kirsch, Aleksi
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1949.01.23
+SEX: F
+ISS: Tsunkeido
+ID#: CSJ14-IQV8C
+EXP: 1984.07.29
+NAME: Moldavich, Katherine
+
+---------------------------------------------------
+November 25th, 1982
+Bulletin: 
+Foreigners require access permit
+Wanted by the State: Michael Hansson
+************************************************
+passport
+
+NATION: Impor
+DOB: 1953.01.05
+SEX: F
+ISS: Haihan
+ID#: PIFWD-YRNVA
+EXP: 1986.12.29
+NAME: Czekowicz, Brenna
+
+access_permit
+
+NAME: Czekowicz, Brenna
+NATION: Impor
+ID#: PIFWD-YRNVA
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 163.0cm
+WEIGHT: 66.0kg
+EXP: 1985.11.03
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1922.12.05
+SEX: M
+ISS: Bostan
+ID#: MHFY9-PYSLK
+EXP: 1983.11.16
+NAME: Malkova, Aleksi
+
+diplomatic_authorization
+
+NATION: Republia
+NAME: Malkova, Aleksi
+ID#: MHFY9-PYSLK
+ACCESS: Kolechia, Obristan, Republia
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1961.09.16
+SEX: F
+ISS: West Grestin
+ID#: FC511-MIVCW
+EXP: 1985.10.09
+NAME: Kreczmanski, Brenna
+
+access_permit
+
+NAME: Kreczmanski, Brenna
+NATION: Kolechia
+ID#: L8D6Q-KFCBE
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 155.0cm
+WEIGHT: 54.0kg
+EXP: 1985.06.01
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1943.08.26
+SEX: M
+ISS: Orvech Vonor
+ID#: TYSHD-ATSTE
+EXP: 1983.01.22
+NAME: Klass, Lukas
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1918.09.05
+SEX: F
+ISS: Paradizna
+ID#: IA27S-WDXNE
+EXP: 1985.07.24
+NAME: Bennet, Helga
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1927.03.02
+SEX: F
+ISS: Haihan
+ID#: GGLOI-D8V15
+EXP: 1985.10.14
+NAME: Guillot, Naomi
+
+diplomatic_authorization
+
+NATION: Impor
+NAME: Guillot, Naomi
+ID#: GGLOI-D8V15
+ACCESS: Arstotzka, Obristan, Republia
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1915.11.01
+SEX: F
+ISS: West Grestin
+ID#: FBKFU-ZCRK4
+EXP: 1985.08.24
+NAME: Stolichnaya, Helga
+
+diplomatic_authorization
+
+NATION: Kolechia
+NAME: Stolichnaya, Helga
+ID#: FBKFU-ZCRK4
+ACCESS: Arstotzka, Kolechia, Obristan
+
+---------------------------------------------------
+work_pass
+
+NAME: Hansson, Michael
+FIELD: Research
+EXP: 1984.05.30
+
+passport
+
+NATION: Impor
+DOB: 1935.07.24
+SEX: M
+ISS: Tsunkeido
+ID#: KS03D-ER8MK
+EXP: 1982.12.12
+NAME: Hansson, Michael
+
+access_permit
+
+NAME: Hansson, Michael
+NATION: Impor
+ID#: KS03D-ER8MK
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 158.0cm
+WEIGHT: 58.0kg
+EXP: 1985.01.27
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1956.05.04
+SEX: M
+ISS: Haihan
+ID#: LUTQQ-PXW4M
+EXP: 1985.10.03
+NAME: Andrevska, Marco
+
+access_permit
+
+NAME: Andrevska, Marco
+NATION: Impor
+ID#: LUTQQ-PXW4M
+PURPOSE: VISIT
+DURATION: 3 MONTHS
+HEIGHT: 175.0cm
+WEIGHT: 83.0kg
+EXP: 1983.09.11
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1923.10.02
+SEX: M
+ISS: Vedor
+ID#: NQUTP-YZR0I
+EXP: 1984.02.09
+NAME: Macek, Pablo
+
+access_permit
+
+NAME: Macek, Pablo
+NATION: Kolechia
+ID#: NQUTP-YZR0I
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 148.0cm
+WEIGHT: 44.0kg
+EXP: 1983.09.25
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1952.03.01
+SEX: F
+ISS: Tsunkeido
+ID#: T7LXQ-FK3OF
+EXP: 1984.07.12
+NAME: Kremenliev, Nicole
+
+access_permit
+
+NAME: Kremenliev, Nicole
+NATION: Impor
+ID#: T7LXQ-FK3OF
+PURPOSE: VISIT
+DURATION: 3 MONTHS
+HEIGHT: 182.0cm
+WEIGHT: 94.0kg
+EXP: 1985.06.18
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1935.08.08
+SEX: M
+ISS: Lesrenadi
+ID#: L78OM-K9JYA
+EXP: 1984.03.15
+NAME: Ramos, Ahmad
+
+access_permit
+
+NAME: Ramos, Ahmad
+NATION: Republia
+ID#: L78OM-K9JYA
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 155.0cm
+WEIGHT: 55.0kg
+EXP: 1985.03.24
+
+---------------------------------------------------
+November 26th, 1982
+Bulletin: 
+Citizens of Arstotzka require ID card
+Deny citizens of Antegria
+Foreigners require HPV vaccination
+Wanted by the State: Andrej Yankov
+************************************************
+passport
+
+NATION: Obristan
+DOB: 1919.09.25
+SEX: M
+ISS: Skal
+ID#: OHHS5-DPWXI
+EXP: 1981.06.01
+NAME: Henriksson, Artour
+
+access_permit
+
+NAME: Henriksson, Artour
+NATION: Obristan
+ID#: OHHS5-DPWXI
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 190.0cm
+WEIGHT: 105.0kg
+EXP: 1985.04.02
+
+certificate_of_vaccination
+
+NAME: Henriksson, Artour
+ID#: OHHS5-DPWXI
+VACCINES: polio, cowpox, tetanus
+
+---------------------------------------------------
+work_pass
+
+NAME: Harkonnen, Paulina
+FIELD: Accounting
+EXP: 1984.01.16
+
+access_permit
+
+NAME: Harkonnen, Paulina
+NATION: Republia
+ID#: C6YB8-XNT9H
+PURPOSE: WORK
+DURATION: 1 MONTH
+HEIGHT: 188.0cm
+WEIGHT: 103.0kg
+EXP: 1985.02.25
+
+certificate_of_vaccination
+
+NAME: Harkonnen, Paulina
+ID#: C6YB8-XNT9H
+VACCINES: HPV, rubella, polio
+
+---------------------------------------------------
+work_pass
+
+NAME: Nilsson, Jennifer
+FIELD: Research
+EXP: 1982.03.20
+
+passport
+
+NATION: Antegria
+DOB: 1924.04.20
+SEX: F
+ISS: Outer Grouse
+ID#: M9AS6-MX6P3
+EXP: 1984.04.04
+NAME: Nilsson, Jennifer
+
+access_permit
+
+NAME: Nilsson, Jennifer
+NATION: Antegria
+ID#: M9AS6-MX6P3
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 187.0cm
+WEIGHT: 101.0kg
+EXP: 1984.11.11
+
+certificate_of_vaccination
+
+NAME: Nilsson, Jennifer
+ID#: M9AS6-MX6P3
+VACCINES: HPV, polio, yellow fever
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1941.12.06
+SEX: M
+ISS: Yurko City
+ID#: AH577-EBWWH
+EXP: 1985.09.28
+NAME: Lewandowski, Andrej
+
+access_permit
+
+NAME: Lewandowski, Andrej
+NATION: Kolechia
+ID#: AH577-EBWWH
+PURPOSE: VISIT
+DURATION: 3 MONTHS
+HEIGHT: 186.0cm
+WEIGHT: 100.0kg
+EXP: 1985.10.08
+
+certificate_of_vaccination
+
+NAME: Lewandowski, Andrej
+ID#: AH577-EBWWH
+VACCINES: typhus, tuberculosis, hepatitis B
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1948.12.19
+SEX: M
+ISS: Paradizna
+ID#: LQWZJ-Y2I8I
+EXP: 1985.11.15
+NAME: Maars, Nikolas
+
+ID_card
+
+NAME: Maars, Nikolas
+DOB: 1948.12.19
+HEIGHT: 179.0cm
+WEIGHT: 90.0kg
+
+---------------------------------------------------
+work_pass
+
+NAME: Sousa, Michelle
+FIELD: Engineering
+EXP: 1983.08.03
+
+passport
+
+NATION: Antegria
+DOB: 1931.02.24
+SEX: F
+ISS: Glorian
+ID#: FEVTK-MP3NG
+EXP: 1981.02.27
+NAME: Sousa, Michelle
+
+access_permit
+
+NAME: Sousa, Michelle
+NATION: Antegria
+ID#: ZDHP3-EBDUS
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 145.0cm
+WEIGHT: 41.0kg
+EXP: 1984.03.24
+
+certificate_of_vaccination
+
+NAME: Sousa, Michelle
+ID#: FEVTK-MP3NG
+VACCINES: polio, cowpox, measles
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1946.06.01
+SEX: M
+ISS: Haihan
+ID#: W5JON-SF196
+EXP: 1985.06.30
+NAME: Rosebrova, Aleksi
+
+access_permit
+
+NAME: Rosebrova, Aleksi
+NATION: Kolechia
+ID#: W5JON-SF196
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 165.0cm
+WEIGHT: 69.0kg
+EXP: 1984.01.23
+
+certificate_of_vaccination
+
+NAME: Rosebrova, Aleksi
+ID#: W5JON-SF196
+VACCINES: HPV, hepatitis B, polio
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1942.02.23
+SEX: M
+ISS: Outer Grouse
+ID#: L90D0-OAHXT
+EXP: 1981.02.11
+NAME: Ramos, Alfred
+
+certificate_of_vaccination
+
+NAME: Ramos, Alfred
+ID#: L90D0-OAHXT
+VACCINES: HPV, cowpox, cholera
+
+diplomatic_authorization
+
+NATION: Antegria
+NAME: Ramos, Alfred
+ID#: L90D0-OAHXT
+ACCESS: Arstotzka, Obristan, Impor
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1959.04.20
+SEX: M
+ISS: St. Marmero
+ID#: IP4EE-ZLQIV
+EXP: 1982.07.02
+NAME: Yankov, Andrej
+
+certificate_of_vaccination
+
+NAME: Yankov, Andrej
+ID#: IP4EE-ZLQIV
+VACCINES: HPV, tuberculosis, measles
+
+diplomatic_authorization
+
+NATION: Antegria
+NAME: Yankov, Andrej
+ID#: IP4EE-ZLQIV
+ACCESS: Arstotzka, Impor, Antegria, Kolechia
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1941.09.11
+SEX: M
+ISS: Great Rapid
+ID#: GWG39-FJ6Z4
+EXP: 1984.05.11
+NAME: Li, Aron
+
+access_permit
+
+NAME: Li, Aron
+NATION: United Federation
+ID#: GWG39-FJ6Z4
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 171.0cm
+WEIGHT: 78.0kg
+EXP: 1984.01.16
+
+certificate_of_vaccination
+
+NAME: Li, Aron
+ID#: GWG39-FJ6Z4
+VACCINES: HPV, polio, tuberculosis
+
+---------------------------------------------------
+work_pass
+
+NAME: Pearl, Vladimir
+FIELD: General labor
+EXP: 1983.03.29
+
+passport
+
+NATION: Antegria
+DOB: 1947.08.16
+SEX: M
+ISS: St. Marmero
+ID#: YQK2Y-I7V80
+EXP: 1985.10.26
+NAME: Pearl, Vladimir
+
+access_permit
+
+NAME: Pearl, Vladimir
+NATION: Antegria
+ID#: YQK2Y-I7V80
+PURPOSE: WORK
+DURATION: 1 YEAR
+HEIGHT: 183.0cm
+WEIGHT: 95.0kg
+EXP: 1984.12.01
+
+certificate_of_vaccination
+
+NAME: Pearl, Vladimir
+ID#: YQK2Y-I7V80
+VACCINES: HPV, cowpox, polio
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1956.03.02
+SEX: M
+ISS: Outer Grouse
+ID#: MPLWH-TPLC4
+EXP: 1985.08.30
+NAME: Aji, Sergey
+
+access_permit
+
+NAME: Aji, Sergey
+NATION: Antegria
+ID#: MPLWH-TPLC4
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 166.0cm
+WEIGHT: 71.0kg
+EXP: 1981.04.06
+
+certificate_of_vaccination
+
+NAME: Aji, Sergey
+ID#: MPLWH-TPLC4
+VACCINES: polio, cowpox, tetanus
+
+---------------------------------------------------
+November 27th, 1982
+Bulletin: 
+Deny citizens of Antegria
+Wanted by the State: Otto Pai
+************************************************
+passport
+
+NATION: Impor
+DOB: 1959.02.13
+SEX: M
+ISS: Tsunkeido
+ID#: KPQV9-TCQ1R
+EXP: 1981.10.20
+NAME: Zitna, Jorge
+
+access_permit
+
+NAME: Zitna, Jorge
+NATION: Impor
+ID#: KPQV9-TCQ1R
+PURPOSE: VISIT
+DURATION: 2 MONTHS
+HEIGHT: 152.0cm
+WEIGHT: 50.0kg
+EXP: 1983.07.14
+
+certificate_of_vaccination
+
+NAME: Zitna, Jorge
+ID#: KPQV9-TCQ1R
+VACCINES: polio, cowpox, tetanus
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1956.06.29
+SEX: F
+ISS: St. Marmero
+ID#: H1942-DCIFO
+EXP: 1985.08.14
+NAME: Zajak, Victoria
+
+access_permit
+
+NAME: Zajak, Victoria
+NATION: Antegria
+ID#: H1942-DCIFO
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 167.0cm
+WEIGHT: 73.0kg
+EXP: 1984.12.03
+
+certificate_of_vaccination
+
+NAME: Zajak, Victoria
+ID#: H1942-DCIFO
+VACCINES: HPV, cowpox, typhus
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1958.05.18
+SEX: F
+ISS: Korista City
+ID#: QGA9W-EKHTP
+EXP: 1983.08.18
+NAME: Karlsson, Carmen
+
+access_permit
+
+NAME: Karlsson, Carmen
+NATION: United Federation
+ID#: QGA9W-EKHTP
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 169.0cm
+WEIGHT: 75.0kg
+EXP: 1983.08.15
+
+certificate_of_vaccination
+
+NAME: Karlsson, Carmen
+ID#: QGA9W-EKHTP
+VACCINES: polio, measles, cowpox
+
+---------------------------------------------------
+work_pass
+
+NAME: Muller, Malva
+FIELD: Food service
+EXP: 1981.06.09
+
+passport
+
+NATION: Obristan
+DOB: 1947.04.10
+SEX: F
+ISS: Lorndaz
+ID#: GMG74-TFVFA
+EXP: 1984.04.17
+NAME: Muller, Malva
+
+access_permit
+
+NAME: Muller, Malva
+NATION: Obristan
+ID#: PKH8T-K3U8S
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 169.0cm
+WEIGHT: 75.0kg
+EXP: 1983.06.05
+
+certificate_of_vaccination
+
+NAME: Muller, Malva
+ID#: GMG74-TFVFA
+VACCINES: HPV, polio, tetanus
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1919.08.14
+SEX: M
+ISS: Bostan
+ID#: YM82Q-N3A14
+EXP: 1984.04.21
+NAME: Frederikson, Emil
+
+grant_of_asylum
+
+NAME: Frederikson, Emil
+NATION: Republia
+ID#: YM82Q-N3A14
+DOB: 1919.08.14
+HEIGHT: 185.0cm
+WEIGHT: 97.0kg
+EXP: 1985.12.04
+
+certificate_of_vaccination
+
+NAME: Frederikson, Emil
+ID#: YM82Q-N3A14
+VACCINES: cowpox, cholera, hepatitis B
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1932.08.17
+SEX: F
+ISS: Yurko City
+ID#: NAZT9-G4PIS
+EXP: 1983.09.24
+NAME: Wolfe, Maria
+
+access_permit
+
+NAME: Wolfe, Maria
+NATION: Kolechia
+ID#: NAZT9-G4PIS
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 148.0cm
+WEIGHT: 45.0kg
+EXP: 1984.02.08
+
+certificate_of_vaccination
+
+NAME: Wolfe, Maria
+ID#: NAZT9-G4PIS
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1919.03.03
+SEX: F
+ISS: Paradizna
+ID#: AE0OF-SCM03
+EXP: 1982.10.31
+NAME: Ramos, Christina
+
+ID_card
+
+NAME: Ramos, Christina
+DOB: 1919.03.03
+HEIGHT: 172.0cm
+WEIGHT: 79.0kg
+
+---------------------------------------------------
+work_pass
+
+NAME: Jordan, Emily
+FIELD: Healthcare
+EXP: 1984.05.14
+
+passport
+
+NATION: Antegria
+DOB: 1962.01.21
+SEX: F
+ISS: Outer Grouse
+ID#: YQK1I-OJISY
+EXP: 1983.11.25
+NAME: Jordan, Emily
+
+access_permit
+
+NAME: Jordan, Emily
+NATION: Antegria
+ID#: KBHB6-VUF26
+PURPOSE: WORK
+DURATION: 1 YEAR
+HEIGHT: 182.0cm
+WEIGHT: 93.0kg
+EXP: 1985.08.30
+
+certificate_of_vaccination
+
+NAME: Jordan, Emily
+ID#: YQK1I-OJISY
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1923.01.23
+SEX: M
+ISS: Outer Grouse
+ID#: VCEYK-EOC3N
+EXP: 1983.06.25
+NAME: Pai, Otto
+
+certificate_of_vaccination
+
+NAME: Pai, Otto
+ID#: VCEYK-EOC3N
+VACCINES: HPV, polio, yellow fever
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1936.02.22
+SEX: F
+ISS: Glorian
+ID#: WEN7V-JYPDF
+EXP: 1984.06.20
+NAME: Crechiolo, Daniela
+
+certificate_of_vaccination
+
+NAME: Crechiolo, Daniela
+ID#: WEN7V-JYPDF
+VACCINES: HPV, tetanus, polio
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1918.03.25
+SEX: M
+ISS: Shingleton
+ID#: RQFES-DZUGD
+EXP: 1985.12.31
+NAME: Moldavich, Giovanni
+
+access_permit
+
+NAME: Moldavich, Giovanni
+NATION: United Federation
+ID#: RQFES-DZUGD
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 168.0cm
+WEIGHT: 73.0kg
+EXP: 1984.10.12
+
+certificate_of_vaccination
+
+NAME: Moldavich, Giovanni
+ID#: RQFES-DZUGD
+VACCINES: HPV, cowpox, tetanus
+
+---------------------------------------------------
+access_permit
+
+NAME: Zitna, Jan
+NATION: Republia
+ID#: BFI0H-Q0PAB
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 188.0cm
+WEIGHT: 103.0kg
+EXP: 1985.09.24
+
+certificate_of_vaccination
+
+NAME: Zitna, Jan
+ID#: O1M9Y-QW2Y3
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+November 28th, 1982
+Bulletin: 
+Allow citizens of Antegria
+Deny citizens of Kolechia
+Wanted by the State: Roman Lewandowski
+************************************************
+passport
+
+NATION: United Federation
+DOB: 1936.11.30
+SEX: F
+ISS: Shingleton
+ID#: AN1HP-BC59U
+EXP: 1984.08.27
+NAME: Schroder, Anita
+
+certificate_of_vaccination
+
+NAME: Schroder, Anita
+ID#: AN1HP-BC59U
+VACCINES: polio, cowpox, yellow fever
+
+diplomatic_authorization
+
+NATION: United Federation
+NAME: Schroder, Anita
+ID#: AN1HP-BC59U
+ACCESS: Arstotzka, Impor, Obristan
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1923.08.09
+SEX: M
+ISS: Tsunkeido
+ID#: F0KYA-VYYAI
+EXP: 1984.09.21
+NAME: Lewandowski, Roman
+
+access_permit
+
+NAME: Lewandowski, Roman
+NATION: Impor
+ID#: YNY3Q-SEBYP
+PURPOSE: VISIT
+DURATION: 3 MONTHS
+HEIGHT: 165.0cm
+WEIGHT: 69.0kg
+EXP: 1984.08.29
+
+certificate_of_vaccination
+
+NAME: Lewandowski, Roman
+ID#: F0KYA-VYYAI
+VACCINES: cholera, rubella, polio
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1931.11.09
+SEX: F
+ISS: Yurko City
+ID#: SPKGS-IQCHN
+EXP: 1983.12.09
+NAME: Karnov, Adriana
+
+access_permit
+
+NAME: Karnov, Adriana
+NATION: Kolechia
+ID#: SPKGS-IQCHN
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 164.0cm
+WEIGHT: 68.0kg
+EXP: 1984.07.10
+
+certificate_of_vaccination
+
+NAME: Karnov, Adriana
+ID#: SPKGS-IQCHN
+VACCINES: HPV, cowpox, typhus
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1924.04.18
+SEX: M
+ISS: Lesrenadi
+ID#: EPB8N-Q1M6X
+EXP: 1983.01.26
+NAME: Steinberg, Karl
+
+access_permit
+
+NAME: Steinberg, Karl
+NATION: Republia
+ID#: EPB8N-Q1M6X
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 160.0cm
+WEIGHT: 62.0kg
+EXP: 1984.08.23
+
+certificate_of_vaccination
+
+NAME: Steinberg, Karl
+ID#: EPB8N-Q1M6X
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1962.05.03
+SEX: M
+ISS: Lesrenadi
+ID#: OOX94-REYRJ
+EXP: 1985.03.01
+NAME: Frederikson, Aleksi
+
+grant_of_asylum
+
+NAME: Frederikson, Aleksi
+NATION: Republia
+ID#: OOX94-REYRJ
+DOB: 1962.05.03
+HEIGHT: 151.0cm
+WEIGHT: 49.0kg
+EXP: 1984.10.03
+
+certificate_of_vaccination
+
+NAME: Frederikson, Aleksi
+ID#: OOX94-REYRJ
+VACCINES: HPV, polio, typhus
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1949.06.01
+SEX: M
+ISS: Korista City
+ID#: P54OC-FA33O
+EXP: 1985.12.17
+NAME: Dvorkin, Felipe
+
+access_permit
+
+NAME: Dvorkin, Felipe
+NATION: United Federation
+ID#: P54OC-FA33O
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 164.0cm
+WEIGHT: 67.0kg
+EXP: 1984.02.25
+
+certificate_of_vaccination
+
+NAME: Dvorkin, Felipe
+ID#: P54OC-FA33O
+VACCINES: typhus, polio, cowpox
+
+---------------------------------------------------
+work_pass
+
+NAME: Dahl, Stefani
+FIELD: Manufacturing
+EXP: 1985.07.04
+
+passport
+
+NATION: Kolechia
+DOB: 1934.01.05
+SEX: F
+ISS: Yurko City
+ID#: A95OF-OJYXB
+EXP: 1985.10.23
+NAME: Dahl, Stefani
+
+access_permit
+
+NAME: Dahl, Stefani
+NATION: Kolechia
+ID#: A95OF-OJYXB
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 167.0cm
+WEIGHT: 71.0kg
+EXP: 1984.10.14
+
+certificate_of_vaccination
+
+NAME: Dahl, Stefani
+ID#: A95OF-OJYXB
+VACCINES: polio, cowpox, tetanus
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1950.08.29
+SEX: F
+ISS: Mergerous
+ID#: MNXJZ-QAS7P
+EXP: 1981.06.19
+NAME: Young, Helga
+
+grant_of_asylum
+
+NAME: Young, Helga
+NATION: Obristan
+ID#: MNXJZ-QAS7P
+DOB: 1950.08.29
+HEIGHT: 163.0cm
+WEIGHT: 67.0kg
+EXP: 1985.04.07
+
+certificate_of_vaccination
+
+NAME: Young, Helga
+ID#: MNXJZ-QAS7P
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1925.08.11
+SEX: M
+ISS: Shingleton
+ID#: J3GCE-UUUWR
+EXP: 1984.12.16
+NAME: Mateo, Ahmad
+
+access_permit
+
+NAME: Mateo, Ahmad
+NATION: United Federation
+ID#: J3GCE-UUUWR
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 171.0cm
+WEIGHT: 77.0kg
+EXP: 1981.10.06
+
+certificate_of_vaccination
+
+NAME: Mateo, Ahmad
+ID#: J3GCE-UUUWR
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1944.04.06
+SEX: F
+ISS: Enkyo
+ID#: FPF2R-TT2HI
+EXP: 1983.11.08
+NAME: Dimitrov, Zera
+
+access_permit
+
+NAME: Dimitrov, Zera
+NATION: Impor
+ID#: FPF2R-TT2HI
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 163.0cm
+WEIGHT: 67.0kg
+EXP: 1985.08.07
+
+certificate_of_vaccination
+
+NAME: Dimitrov, Zera
+ID#: FPF2R-TT2HI
+VACCINES: hepatitis B, polio, cholera
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1946.10.13
+SEX: F
+ISS: East Grestin
+ID#: OAX4F-ZK4MV
+EXP: 1985.05.05
+NAME: Macek, Josefina
+
+ID_card
+
+NAME: Macek, Josefina
+DOB: 1946.10.13
+HEIGHT: 171.0cm
+WEIGHT: 78.0kg
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1945.03.14
+SEX: M
+ISS: Yurko City
+ID#: CPT5N-T86W4
+EXP: 1984.04.06
+NAME: Karlsson, Marcel
+
+access_permit
+
+NAME: Karlsson, Marcel
+NATION: Kolechia
+ID#: CPT5N-T86W4
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 179.0cm
+WEIGHT: 90.0kg
+EXP: 1985.09.22
+
+certificate_of_vaccination
+
+NAME: Karlsson, Marcel
+ID#: CPT5N-T86W4
+VACCINES: HPV, cholera, typhus
+
+---------------------------------------------------
+November 29th, 1982
+Bulletin: 
+Allow citizens of Kolechia
+Deny citizens of United Federation
+Wanted by the State: Karina Lang
+************************************************
+passport
+
+NATION: Arstotzka
+DOB: 1939.06.01
+SEX: F
+ISS: East Grestin
+ID#: X0UPN-G4QIH
+EXP: 1983.06.23
+NAME: Odom, Ivana
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1916.05.05
+SEX: M
+ISS: Yurko City
+ID#: VI4NF-FY5KX
+EXP: 1984.05.08
+NAME: Rosenfeld, Calum
+
+access_permit
+
+NAME: Rosenfeld, Calum
+NATION: Kolechia
+ID#: VI4NF-FY5KX
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 168.0cm
+WEIGHT: 74.0kg
+EXP: 1981.01.25
+
+certificate_of_vaccination
+
+NAME: Rosenfeld, Calum
+ID#: VI4NF-FY5KX
+VACCINES: rubella, cowpox, hepatitis B
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1919.01.11
+SEX: M
+ISS: Yurko City
+ID#: A4G2I-OSC0L
+EXP: 1984.08.16
+NAME: Jordan, Joachim
+
+access_permit
+
+NAME: Jordan, Joachim
+NATION: Obristan
+ID#: A4G2I-OSC0L
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 174.0cm
+WEIGHT: 82.0kg
+EXP: 1985.10.26
+
+certificate_of_vaccination
+
+NAME: Jordan, Joachim
+ID#: A4G2I-OSC0L
+VACCINES: HPV, tetanus, cowpox
+
+---------------------------------------------------
+work_pass
+
+NAME: Young, Ivana
+FIELD: Healthcare
+EXP: 1981.12.18
+
+passport
+
+NATION: Antegria
+DOB: 1938.12.15
+SEX: F
+ISS: St. Marmero
+ID#: M213B-QGX52
+EXP: 1984.02.09
+NAME: Young, Ivana
+
+access_permit
+
+NAME: Young, Ivana
+NATION: Antegria
+ID#: M213B-QGX52
+PURPOSE: WORK
+DURATION: 3 MONTHS
+HEIGHT: 148.0cm
+WEIGHT: 45.0kg
+EXP: 1983.07.05
+
+certificate_of_vaccination
+
+NAME: Young, Ivana
+ID#: M213B-QGX52
+VACCINES: typhus, yellow fever, measles
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1957.11.02
+SEX: F
+ISS: Shingleton
+ID#: WXM44-DM1PU
+EXP: 1985.10.15
+NAME: Dvorkin, Marina
+
+access_permit
+
+NAME: Dvorkin, Marina
+NATION: United Federation
+ID#: WXM44-DM1PU
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 176.0cm
+WEIGHT: 86.0kg
+EXP: 1985.05.10
+
+certificate_of_vaccination
+
+NAME: Dvorkin, Marina
+ID#: WXM44-DM1PU
+VACCINES: HPV, cowpox, polio
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1930.01.15
+SEX: F
+ISS: Haihan
+ID#: J3I9A-ZDRLD
+EXP: 1985.11.23
+NAME: Vazquez, Nicole
+
+grant_of_asylum
+
+NAME: Vazquez, Nicole
+NATION: Impor
+ID#: J3I9A-ZDRLD
+DOB: 1930.01.15
+HEIGHT: 153.0cm
+WEIGHT: 52.0kg
+EXP: 1984.04.15
+
+certificate_of_vaccination
+
+NAME: Vazquez, Nicole
+ID#: J3I9A-ZDRLD
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1937.07.04
+SEX: F
+ISS: True Glorian
+ID#: X9N18-G2W23
+EXP: 1983.05.21
+NAME: Lang, Karina
+
+grant_of_asylum
+
+NAME: Lang, Karina
+NATION: Republia
+ID#: X9N18-G2W23
+DOB: 1937.07.04
+HEIGHT: 147.0cm
+WEIGHT: 43.0kg
+EXP: 1982.01.07
+
+certificate_of_vaccination
+
+NAME: Lang, Karina
+ID#: X9N18-G2W23
+VACCINES: tetanus, cowpox, polio
+
+---------------------------------------------------
+work_pass
+
+NAME: Lindberg, Samantha
+FIELD: Fishing
+EXP: 1985.05.30
+
+passport
+
+NATION: Obristan
+DOB: 1921.10.17
+SEX: F
+ISS: Lorndaz
+ID#: SG2UM-XU9DM
+EXP: 1985.12.06
+NAME: Lindberg, Samantha
+
+access_permit
+
+NAME: Lindberg, Samantha
+NATION: Obristan
+ID#: SG2UM-XU9DM
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 158.0cm
+WEIGHT: 58.0kg
+EXP: 1985.11.09
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1945.12.08
+SEX: F
+ISS: West Grestin
+ID#: SU8DY-FI54P
+EXP: 1983.11.27
+NAME: Atreides, Alexa
+
+access_permit
+
+NAME: Atreides, Alexa
+NATION: Kolechia
+ID#: SU8DY-FI54P
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 174.0cm
+WEIGHT: 82.0kg
+EXP: 1984.05.03
+
+certificate_of_vaccination
+
+NAME: Atreides, Alexa
+ID#: SU8DY-FI54P
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1929.08.03
+SEX: F
+ISS: Enkyo
+ID#: PTO3B-RJOL1
+EXP: 1984.06.09
+NAME: Reichenbach, Yvonna
+
+access_permit
+
+NAME: Reichenbach, Yvonna
+NATION: Impor
+ID#: PTO3B-RJOL1
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 181.0cm
+WEIGHT: 92.0kg
+EXP: 1983.05.16
+
+certificate_of_vaccination
+
+NAME: Reichenbach, Yvonna
+ID#: PTO3B-RJOL1
+VACCINES: HPV, polio, rubella
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1947.10.11
+SEX: F
+ISS: Tsunkeido
+ID#: MEX6A-A47RP
+EXP: 1984.11.18
+NAME: Sorenson, Nadia
+
+access_permit
+
+NAME: Sorenson, Nadia
+NATION: Impor
+ID#: MEX6A-A47RP
+PURPOSE: VISIT
+DURATION: 2 MONTHS
+HEIGHT: 159.0cm
+WEIGHT: 61.0kg
+EXP: 1983.08.30
+
+certificate_of_vaccination
+
+NAME: Sorenson, Nadia
+ID#: MEX6A-A47RP
+VACCINES: tuberculosis, yellow fever, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1942.10.03
+SEX: M
+ISS: Vedor
+ID#: AGR1C-YGHOW
+EXP: 1983.12.19
+NAME: Odom, Anton
+
+access_permit
+
+NAME: Odom, Anton
+NATION: Kolechia
+ID#: AGR1C-YGHOW
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 166.0cm
+WEIGHT: 71.0kg
+EXP: 1983.04.17
+
+certificate_of_vaccination
+
+NAME: Odom, Anton
+ID#: AGR1C-YGHOW
+VACCINES: polio, hepatitis B, cowpox
+
+---------------------------------------------------
+November 30th, 1982
+Bulletin: 
+Allow citizens of United Federation
+Deny citizens of Kolechia
+Wanted by the State: Stefan Grech
+************************************************
+passport
+
+NATION: Kolechia
+DOB: 1948.06.22
+SEX: F
+ISS: Yurko City
+ID#: VXNWW-YBGRL
+EXP: 1983.01.09
+NAME: Graham, Josephine
+
+certificate_of_vaccination
+
+NAME: Graham, Josephine
+ID#: VXNWW-YBGRL
+VACCINES: HPV, cowpox, hepatitis B
+
+diplomatic_authorization
+
+NATION: Kolechia
+NAME: Graham, Josephine
+ID#: VXNWW-YBGRL
+ACCESS: Kolechia, Obristan, United Federation
+
+---------------------------------------------------
+work_pass
+
+NAME: Weisz, Sergei
+FIELD: Fine arts
+EXP: 1982.10.09
+
+passport
+
+NATION: Republia
+DOB: 1928.09.09
+SEX: M
+ISS: Bostan
+ID#: RX8ZA-ZISR6
+EXP: 1983.10.18
+NAME: Weisz, Sergei
+
+access_permit
+
+NAME: Weisz, Sergei
+NATION: Republia
+ID#: RX8ZA-ZISR6
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 149.0cm
+WEIGHT: 45.0kg
+EXP: 1984.07.01
+
+certificate_of_vaccination
+
+NAME: Weisz, Sergei
+ID#: RX8ZA-ZISR6
+VACCINES: polio, cowpox, tuberculosis
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1935.12.21
+SEX: M
+ISS: Outer Grouse
+ID#: DEUXY-TZGYY
+EXP: 1984.03.29
+NAME: Henriksson, Javier
+
+access_permit
+
+NAME: Henriksson, Javier
+NATION: Antegria
+ID#: DEUXY-TZGYY
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 169.0cm
+WEIGHT: 75.0kg
+EXP: 1984.03.04
+
+certificate_of_vaccination
+
+NAME: Henriksson, Javier
+ID#: DEUXY-TZGYY
+VACCINES: HPV, polio, hepatitis B
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1940.10.26
+SEX: F
+ISS: Shingleton
+ID#: BF0TA-GAG3O
+EXP: 1984.03.19
+NAME: Mateo, Misha
+
+certificate_of_vaccination
+
+NAME: Mateo, Misha
+ID#: BF0TA-GAG3O
+VACCINES: polio, cholera, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1953.12.16
+SEX: M
+ISS: Tsunkeido
+ID#: QUY1X-K2Q74
+EXP: 1981.01.15
+NAME: Costa, Rikardo
+
+access_permit
+
+NAME: Costa, Rikardo
+NATION: Impor
+ID#: QUY1X-K2Q74
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 146.0cm
+WEIGHT: 41.0kg
+EXP: 1985.06.19
+
+certificate_of_vaccination
+
+NAME: Costa, Rikardo
+ID#: QUY1X-K2Q74
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1918.04.04
+SEX: M
+ISS: Bostan
+ID#: UVBI9-MYM1L
+EXP: 1983.08.25
+NAME: Grech, Stefan
+
+access_permit
+
+NAME: Grech, Stefan
+NATION: Republia
+ID#: UVBI9-MYM1L
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 176.0cm
+WEIGHT: 85.0kg
+EXP: 1983.03.03
+
+certificate_of_vaccination
+
+NAME: Grech, Stefan
+ID#: UVBI9-MYM1L
+VACCINES: HPV, polio, cowpox
+
+---------------------------------------------------
+work_pass
+
+NAME: Johannson, Natalya
+FIELD: Accounting
+EXP: 1984.08.17
+
+passport
+
+NATION: Kolechia
+DOB: 1952.07.11
+SEX: F
+ISS: Vedor
+ID#: H9YXA-EDNTW
+EXP: 1984.09.25
+NAME: Johannson, Natalya
+
+access_permit
+
+NAME: Johannson, Natalya
+NATION: Kolechia
+ID#: G2YZF-ZFGD8
+PURPOSE: WORK
+DURATION: 1 YEAR
+HEIGHT: 155.0cm
+WEIGHT: 55.0kg
+EXP: 1984.10.27
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1928.04.10
+SEX: M
+ISS: Yurko City
+ID#: TP1X2-UEXX7
+EXP: 1984.12.14
+NAME: Maars, Mohammed
+
+access_permit
+
+NAME: Maars, Mohammed
+NATION: Kolechia
+ID#: TP1X2-UEXX7
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 178.0cm
+WEIGHT: 88.0kg
+EXP: 1981.04.16
+
+certificate_of_vaccination
+
+NAME: Maars, Mohammed
+ID#: TP1X2-UEXX7
+VACCINES: HPV, polio, hepatitis B
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1925.11.22
+SEX: F
+ISS: Shingleton
+ID#: WPY5P-QTYGJ
+EXP: 1983.03.27
+NAME: Romanov, Liliana
+
+access_permit
+
+NAME: Romanov, Liliana
+NATION: United Federation
+ID#: WPY5P-QTYGJ
+PURPOSE: VISIT
+DURATION: 1 MONTH
+HEIGHT: 169.0cm
+WEIGHT: 75.0kg
+EXP: 1985.02.22
+
+certificate_of_vaccination
+
+NAME: Romanov, Liliana
+ID#: WPY5P-QTYGJ
+VACCINES: HPV, typhus, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1933.01.08
+SEX: F
+ISS: Outer Grouse
+ID#: MWFFQ-NLVM0
+EXP: 1985.09.23
+NAME: Lovska, Anya
+
+access_permit
+
+NAME: Lovska, Anya
+NATION: Antegria
+ID#: XM6KK-P0HXX
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 145.0cm
+WEIGHT: 41.0kg
+EXP: 1984.02.04
+
+certificate_of_vaccination
+
+NAME: Lovska, Anya
+ID#: MWFFQ-NLVM0
+VACCINES: polio, cowpox, tetanus
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1939.03.08
+SEX: F
+ISS: Skal
+ID#: OZNF7-UGNUA
+EXP: 1983.02.13
+NAME: Smirnov, Zoe
+
+access_permit
+
+NAME: Smirnov, Zoe
+NATION: Obristan
+ID#: OZNF7-UGNUA
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 179.0cm
+WEIGHT: 89.0kg
+EXP: 1981.02.19
+
+certificate_of_vaccination
+
+NAME: Smirnov, Zoe
+ID#: OZNF7-UGNUA
+VACCINES: HPV, cowpox, typhus
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1947.02.11
+SEX: M
+ISS: Lorndaz
+ID#: C2295-KSFEM
+EXP: 1983.04.14
+NAME: Schumer, Alfred
+
+access_permit
+
+NAME: Schumer, Alfred
+NATION: Obristan
+ID#: C2295-KSFEM
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 178.0cm
+WEIGHT: 88.0kg
+EXP: 1984.07.14
+
+certificate_of_vaccination
+
+NAME: Schumer, Alfred
+ID#: C2295-KSFEM
+VACCINES: polio, cowpox, hepatitis B
+
+---------------------------------------------------
+December 1st, 1982
+Bulletin: 
+Allow citizens of Kolechia
+Deny citizens of Obristan
+Foreigners no longer require HPV vaccination
+Citizens of Antegria, Impor, United Federation, Kolechia require polio vaccination
+Wanted by the State: Tatiana Wagner
+************************************************
+passport
+
+NATION: Republia
+DOB: 1934.11.10
+SEX: M
+ISS: Lesrenadi
+ID#: Z8JBA-OF18W
+EXP: 1983.05.02
+NAME: Vyas, Andre
+
+access_permit
+
+NAME: Vyas, Andre
+NATION: Republia
+ID#: Z8JBA-OF18W
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 162.0cm
+WEIGHT: 64.0kg
+EXP: 1985.03.01
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1919.09.03
+SEX: M
+ISS: Bostan
+ID#: X51V9-ODSQP
+EXP: 1985.02.16
+NAME: Macek, Jorge
+
+diplomatic_authorization
+
+NATION: Republia
+NAME: Macek, Jorge
+ID#: X51V9-ODSQP
+ACCESS: Arstotzka, Antegria, Impor
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1923.12.21
+SEX: F
+ISS: Yurko City
+ID#: G8791-M1AHA
+EXP: 1983.07.25
+NAME: Wagner, Tatiana
+
+access_permit
+
+NAME: Wagner, Tatiana
+NATION: Kolechia
+ID#: G8791-M1AHA
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 181.0cm
+WEIGHT: 92.0kg
+EXP: 1982.12.22
+
+certificate_of_vaccination
+
+NAME: Wagner, Tatiana
+ID#: G8791-M1AHA
+VACCINES: typhus, HPV, tuberculosis
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1956.07.09
+SEX: F
+ISS: Great Rapid
+ID#: NA8YS-CC84H
+EXP: 1985.02.19
+NAME: Bennet, Ava
+
+access_permit
+
+NAME: Bennet, Ava
+NATION: United Federation
+ID#: NA8YS-CC84H
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 177.0cm
+WEIGHT: 86.0kg
+EXP: 1983.03.08
+
+certificate_of_vaccination
+
+NAME: Bennet, Ava
+ID#: NA8YS-CC84H
+VACCINES: polio, tetanus, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1953.12.11
+SEX: M
+ISS: Haihan
+ID#: CNOE4-C0ES8
+EXP: 1984.08.03
+NAME: Lindberg, Danil
+
+access_permit
+
+NAME: Lindberg, Danil
+NATION: Impor
+ID#: CNOE4-C0ES8
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 145.0cm
+WEIGHT: 40.0kg
+EXP: 1983.09.18
+
+certificate_of_vaccination
+
+NAME: Lindberg, Danil
+ID#: CNOE4-C0ES8
+VACCINES: tetanus, cowpox, cholera
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1916.08.13
+SEX: M
+ISS: Enkyo
+ID#: RIZ08-SIARF
+EXP: 1984.05.02
+NAME: Kravitz, Aaron
+
+access_permit
+
+NAME: Kravitz, Aaron
+NATION: Impor
+ID#: RIZ08-SIARF
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 162.0cm
+WEIGHT: 64.0kg
+EXP: 1982.03.18
+
+certificate_of_vaccination
+
+NAME: Kravitz, Aaron
+ID#: RIZ08-SIARF
+VACCINES: polio, cowpox, tuberculosis
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1949.06.22
+SEX: M
+ISS: Mergerous
+ID#: GBZI9-JBD8V
+EXP: 1983.02.21
+NAME: Shaw, Ivan
+
+grant_of_asylum
+
+NAME: Shaw, Ivan
+NATION: Obristan
+ID#: GBZI9-JBD8V
+DOB: 1949.06.22
+HEIGHT: 146.0cm
+WEIGHT: 41.0kg
+EXP: 1985.06.30
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1961.11.21
+SEX: M
+ISS: Paradizna
+ID#: JUOWQ-HSDUD
+EXP: 1983.03.01
+NAME: Reyes, Ibrahim
+
+ID_card
+
+NAME: Reyes, Ibrahim
+DOB: 1961.11.21
+HEIGHT: 155.0cm
+WEIGHT: 55.0kg
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1914.03.01
+SEX: F
+ISS: Orvech Vonor
+ID#: G6OER-O3WHP
+EXP: 1983.05.13
+NAME: Dvorkin, Simone
+
+ID_card
+
+NAME: Dvorkin, Simone
+DOB: 1914.03.01
+HEIGHT: 149.0cm
+WEIGHT: 46.0kg
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1951.01.15
+SEX: F
+ISS: Glorian
+ID#: GBVNA-NF026
+EXP: 1983.02.16
+NAME: Kleiner, Cecelia
+
+access_permit
+
+NAME: Kleiner, Cecelia
+NATION: Antegria
+ID#: GBVNA-NF026
+PURPOSE: VISIT
+DURATION: 1 MONTH
+HEIGHT: 174.0cm
+WEIGHT: 82.0kg
+EXP: 1984.01.19
+
+certificate_of_vaccination
+
+NAME: Kleiner, Cecelia
+ID#: GBVNA-NF026
+VACCINES: yellow fever, cholera, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1940.08.23
+SEX: F
+ISS: Lesrenadi
+ID#: Y8O91-XCTN0
+EXP: 1981.06.22
+NAME: Watson, Roberta
+
+access_permit
+
+NAME: Watson, Roberta
+NATION: Republia
+ID#: Y8O91-XCTN0
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 180.0cm
+WEIGHT: 91.0kg
+EXP: 1985.09.29
+
+---------------------------------------------------
+work_pass
+
+NAME: Dahl, Petra
+FIELD: Research
+EXP: 1984.07.28
+
+passport
+
+NATION: United Federation
+DOB: 1946.07.09
+SEX: F
+ISS: Shingleton
+ID#: J2YQD-HJDEK
+EXP: 1984.01.09
+NAME: Dahl, Petra
+
+access_permit
+
+NAME: Dahl, Petra
+NATION: United Federation
+ID#: J2YQD-HJDEK
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 177.0cm
+WEIGHT: 86.0kg
+EXP: 1984.03.09
+
+certificate_of_vaccination
+
+NAME: Dahl, Petra
+ID#: J2YQD-HJDEK
+VACCINES: polio, HPV, cholera
+
+---------------------------------------------------
+December 2nd, 1982
+Bulletin: 
+Allow citizens of Obristan
+Deny citizens of Republia
+Workers require work pass
+Wanted by the State: Lars Blanco
+************************************************
+passport
+
+NATION: Republia
+DOB: 1952.10.03
+SEX: F
+ISS: Lesrenadi
+ID#: UH1AZ-XHIYV
+EXP: 1983.07.04
+NAME: Nityev, Danika
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1945.05.31
+SEX: F
+ISS: East Grestin
+ID#: EGNU9-O5B4W
+EXP: 1983.08.12
+NAME: Quinn, Sarah
+
+ID_card
+
+NAME: Quinn, Sarah
+DOB: 1945.05.31
+HEIGHT: 150.0cm
+WEIGHT: 48.0kg
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1919.04.10
+SEX: M
+ISS: Tsunkeido
+ID#: U4DZL-YZRJZ
+EXP: 1981.06.24
+NAME: Kreczmanski, Christoph
+
+access_permit
+
+NAME: Kreczmanski, Christoph
+NATION: Impor
+ID#: U4DZL-YZRJZ
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 165.0cm
+WEIGHT: 69.0kg
+EXP: 1984.09.27
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1953.02.16
+SEX: M
+ISS: St. Marmero
+ID#: CFE4Q-PME9N
+EXP: 1984.05.27
+NAME: Dimanishki, Nikolas
+
+access_permit
+
+NAME: Dimanishki, Nikolas
+NATION: Antegria
+ID#: CFE4Q-PME9N
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 161.0cm
+WEIGHT: 63.0kg
+EXP: 1981.03.25
+
+---------------------------------------------------
+access_permit
+
+NAME: Leonov, Sergei
+NATION: Obristan
+ID#: D2I5O-X3U3W
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 178.0cm
+WEIGHT: 88.0kg
+EXP: 1985.02.07
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1924.06.09
+SEX: F
+ISS: Mergerous
+ID#: OBDXM-KZV58
+EXP: 1985.06.02
+NAME: Sousa, Rozsa
+
+access_permit
+
+NAME: Sousa, Rozsa
+NATION: Obristan
+ID#: VQFNG-ZO5TQ
+PURPOSE: VISIT
+DURATION: 1 MONTH
+HEIGHT: 155.0cm
+WEIGHT: 55.0kg
+EXP: 1984.11.13
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1914.02.24
+SEX: M
+ISS: Orvech Vonor
+ID#: F7D26-GIWT7
+EXP: 1982.12.08
+NAME: Leonov, Frederic
+
+ID_card
+
+NAME: Leonov, Frederic
+DOB: 1914.02.24
+HEIGHT: 153.0cm
+WEIGHT: 52.0kg
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1960.12.31
+SEX: F
+ISS: Lesrenadi
+ID#: ZMS2G-T3VRC
+EXP: 1983.06.22
+NAME: Grech, Samantha
+
+access_permit
+
+NAME: Grech, Samantha
+NATION: Republia
+ID#: E659R-EE8KR
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 163.0cm
+WEIGHT: 66.0kg
+EXP: 1984.05.23
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1940.02.08
+SEX: M
+ISS: St. Marmero
+ID#: G6I1B-C4OCH
+EXP: 1984.08.08
+NAME: Crechiolo, Viktor
+
+access_permit
+
+NAME: Crechiolo, Viktor
+NATION: Antegria
+ID#: G6I1B-C4OCH
+PURPOSE: TRANSIT
+DURATION: 14 DAYS
+HEIGHT: 155.0cm
+WEIGHT: 55.0kg
+EXP: 1984.09.03
+
+certificate_of_vaccination
+
+NAME: Crechiolo, Viktor
+ID#: G6I1B-C4OCH
+VACCINES: cowpox, measles, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1915.08.23
+SEX: F
+ISS: Tsunkeido
+ID#: QMJM9-YIY4K
+EXP: 1984.10.05
+NAME: Medici, Cassandra
+
+access_permit
+
+NAME: Medici, Cassandra
+NATION: Impor
+ID#: QMJM9-YIY4K
+PURPOSE: VISIT
+DURATION: 3 MONTHS
+HEIGHT: 189.0cm
+WEIGHT: 103.0kg
+EXP: 1983.08.21
+
+certificate_of_vaccination
+
+NAME: Medici, Cassandra
+ID#: QMJM9-YIY4K
+VACCINES: typhus, HPV, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1936.08.12
+SEX: M
+ISS: Skal
+ID#: IAIKW-Q41L0
+EXP: 1983.09.07
+NAME: Blanco, Lars
+
+diplomatic_authorization
+
+NATION: Obristan
+NAME: Blanco, Lars
+ID#: IAIKW-Q41L0
+ACCESS: Arstotzka, Antegria
+
+---------------------------------------------------
+work_pass
+
+NAME: Dvorkin, Brenna
+FIELD: Fishing
+EXP: 1984.04.26
+
+passport
+
+NATION: Kolechia
+DOB: 1958.10.14
+SEX: F
+ISS: Vedor
+ID#: MH2EG-DJHHD
+EXP: 1983.08.23
+NAME: Dvorkin, Brenna
+
+access_permit
+
+NAME: Dvorkin, Brenna
+NATION: Kolechia
+ID#: MH2EG-DJHHD
+PURPOSE: WORK
+DURATION: 1 MONTH
+HEIGHT: 176.0cm
+WEIGHT: 84.0kg
+EXP: 1982.01.29
+
+certificate_of_vaccination
+
+NAME: Dvorkin, Brenna
+ID#: MH2EG-DJHHD
+VACCINES: polio, cowpox, tetanus
+
+---------------------------------------------------
+December 3rd, 1982
+Bulletin: 
+Allow citizens of Republia
+Deny citizens of Antegria
+Wanted by the State: Karin Kaczynska
+************************************************
+passport
+
+NATION: United Federation
+DOB: 1954.05.02
+SEX: M
+ISS: Shingleton
+ID#: NMC0B-LLRLM
+EXP: 1985.04.29
+NAME: Jovanovic, Nico
+
+access_permit
+
+NAME: Jovanovic, Nico
+NATION: United Federation
+ID#: NMC0B-LLRLM
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 149.0cm
+WEIGHT: 46.0kg
+EXP: 1985.12.07
+
+certificate_of_vaccination
+
+NAME: Jovanovic, Nico
+ID#: NMC0B-LLRLM
+VACCINES: hepatitis B, cholera, typhus
+
+---------------------------------------------------
+work_pass
+
+NAME: Rabban, Alberta
+FIELD: Dentistry
+EXP: 1985.09.09
+
+passport
+
+NATION: Republia
+DOB: 1928.07.01
+SEX: F
+ISS: True Glorian
+ID#: TTU9C-NIH96
+EXP: 1984.02.18
+NAME: Rabban, Alberta
+
+access_permit
+
+NAME: Rabban, Alberta
+NATION: Republia
+ID#: TTU9C-NIH96
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 156.0cm
+WEIGHT: 56.0kg
+EXP: 1984.10.05
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1953.05.17
+SEX: M
+ISS: Lorndaz
+ID#: WT9LI-TC55C
+EXP: 1985.11.16
+NAME: Medici, Zachary
+
+access_permit
+
+NAME: Medici, Zachary
+NATION: Obristan
+ID#: WT9LI-TC55C
+PURPOSE: VISIT
+DURATION: 1 MONTH
+HEIGHT: 178.0cm
+WEIGHT: 88.0kg
+EXP: 1984.11.28
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1939.06.26
+SEX: M
+ISS: Paradizna
+ID#: L5Z2X-WHORM
+EXP: 1985.10.10
+NAME: David, Ibrahim
+
+ID_card
+
+NAME: David, Ibrahim
+DOB: 1939.06.26
+HEIGHT: 165.0cm
+WEIGHT: 69.0kg
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1958.09.09
+SEX: M
+ISS: Korista City
+ID#: T8ZM7-BPVHW
+EXP: 1983.10.14
+NAME: Popovic, Fyodor
+
+access_permit
+
+NAME: Popovic, Fyodor
+NATION: United Federation
+ID#: T8ZM7-BPVHW
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 145.0cm
+WEIGHT: 40.0kg
+EXP: 1984.09.08
+
+certificate_of_vaccination
+
+NAME: Popovic, Fyodor
+ID#: T8ZM7-BPVHW
+VACCINES: polio, HPV, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1920.09.28
+SEX: F
+ISS: Tsunkeido
+ID#: H0MFH-P1W16
+EXP: 1984.05.10
+NAME: Kaczynska, Karin
+
+access_permit
+
+NAME: Kaczynska, Karin
+NATION: Impor
+ID#: H0MFH-P1W16
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 182.0cm
+WEIGHT: 93.0kg
+EXP: 1985.08.16
+
+certificate_of_vaccination
+
+NAME: Kaczynska, Karin
+ID#: H0MFH-P1W16
+VACCINES: tetanus, measles, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1935.12.02
+SEX: M
+ISS: Tsunkeido
+ID#: U3CBD-N5LNU
+EXP: 1985.06.22
+NAME: Gruben, Bruno
+
+access_permit
+
+NAME: Gruben, Bruno
+NATION: Impor
+ID#: U3CBD-N5LNU
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 165.0cm
+WEIGHT: 69.0kg
+EXP: 1982.01.14
+
+certificate_of_vaccination
+
+NAME: Gruben, Bruno
+ID#: U3CBD-N5LNU
+VACCINES: polio, HPV, rubella
+
+---------------------------------------------------
+work_pass
+
+NAME: Macek, Aron
+FIELD: Architecture
+EXP: 1985.10.26
+
+passport
+
+NATION: Obristan
+DOB: 1917.01.10
+SEX: M
+ISS: Mergerous
+ID#: S7LCG-VN1IE
+EXP: 1985.07.20
+NAME: Macek, Aron
+
+access_permit
+
+NAME: Macek, Aron
+NATION: Obristan
+ID#: S7LCG-VN1IE
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 173.0cm
+WEIGHT: 80.0kg
+EXP: 1983.05.27
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1959.04.16
+SEX: F
+ISS: Korista City
+ID#: SIUZV-KLUM8
+EXP: 1983.12.27
+NAME: Conrad, Ekaterina
+
+access_permit
+
+NAME: Conrad, Ekaterina
+NATION: United Federation
+ID#: SIUZV-KLUM8
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 156.0cm
+WEIGHT: 56.0kg
+EXP: 1982.11.02
+
+certificate_of_vaccination
+
+NAME: Conrad, Ekaterina
+ID#: SIUZV-KLUM8
+VACCINES: polio, cowpox, cholera
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1939.03.25
+SEX: F
+ISS: Lesrenadi
+ID#: DD2SQ-AQFEC
+EXP: 1984.11.27
+NAME: Ortiz, Stefani
+
+access_permit
+
+NAME: Ortiz, Stefani
+NATION: Republia
+ID#: DD2SQ-AQFEC
+PURPOSE: IMMIGRATE
+DURATION: FOREVER
+HEIGHT: 166.0cm
+WEIGHT: 71.0kg
+EXP: 1984.03.08
+
+---------------------------------------------------
+work_pass
+
+NAME: Newman, Olga
+FIELD: Construction
+EXP: 1982.01.10
+
+passport
+
+NATION: Impor
+DOB: 1930.04.03
+SEX: F
+ISS: Haihan
+ID#: NM7VS-KS1E0
+EXP: 1985.11.17
+NAME: Newman, Olga
+
+access_permit
+
+NAME: Newman, Olga
+NATION: Impor
+ID#: NM7VS-KS1E0
+PURPOSE: WORK
+DURATION: 6 MONTHS
+HEIGHT: 168.0cm
+WEIGHT: 73.0kg
+EXP: 1985.05.20
+
+certificate_of_vaccination
+
+NAME: Newman, Olga
+ID#: NM7VS-KS1E0
+VACCINES: tetanus, typhus, cholera
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1937.05.06
+SEX: M
+ISS: Bostan
+ID#: E1333-R6F30
+EXP: 1983.12.06
+NAME: Kreczmanski, Isaak
+
+access_permit
+
+NAME: Kreczmanski, Isaak
+NATION: Republia
+ID#: FSVGU-B07AX
+PURPOSE: TRANSIT
+DURATION: 2 DAYS
+HEIGHT: 176.0cm
+WEIGHT: 86.0kg
+EXP: 1984.10.20
+
+---------------------------------------------------
+December 4th, 1982
+Bulletin: 
+Allow citizens of Antegria
+Deny citizens of Kolechia
+Wanted by the State: Sasha Jacobs
+************************************************
+work_pass
+
+NAME: Michaelson, Omid
+FIELD: Dentistry
+EXP: 1984.01.08
+
+passport
+
+NATION: Kolechia
+DOB: 1956.08.13
+SEX: M
+ISS: Vedor
+ID#: G8O21-MD2LT
+EXP: 1985.01.01
+NAME: Michaelson, Omid
+
+access_permit
+
+NAME: Michaelson, Omid
+NATION: Kolechia
+ID#: G8O21-MD2LT
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 148.0cm
+WEIGHT: 45.0kg
+EXP: 1985.08.17
+
+certificate_of_vaccination
+
+NAME: Michaelson, Omid
+ID#: G8O21-MD2LT
+VACCINES: polio, HPV, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1946.04.16
+SEX: F
+ISS: Great Rapid
+ID#: YBSRZ-G6EJD
+EXP: 1981.04.22
+NAME: Borshiki, Christina
+
+grant_of_asylum
+
+NAME: Borshiki, Christina
+NATION: United Federation
+ID#: YBSRZ-G6EJD
+DOB: 1946.04.16
+HEIGHT: 159.0cm
+WEIGHT: 61.0kg
+EXP: 1983.03.15
+
+certificate_of_vaccination
+
+NAME: Borshiki, Christina
+ID#: YBSRZ-G6EJD
+VACCINES: HPV, cowpox, rubella
+
+---------------------------------------------------
+work_pass
+
+NAME: Jacobs, Sasha
+FIELD: Statistics
+EXP: 1983.12.30
+
+passport
+
+NATION: Kolechia
+DOB: 1955.08.24
+SEX: M
+ISS: West Grestin
+ID#: B62VC-NGYSW
+EXP: 1985.10.29
+NAME: Jacobs, Sasha
+
+access_permit
+
+NAME: Jacobs, Sasha
+NATION: Kolechia
+ID#: B62VC-NGYSW
+PURPOSE: WORK
+DURATION: 2 MONTHS
+HEIGHT: 158.0cm
+WEIGHT: 58.0kg
+EXP: 1983.05.13
+
+certificate_of_vaccination
+
+NAME: Jacobs, Sasha
+ID#: B62VC-NGYSW
+VACCINES: tetanus, typhus, HPV
+
+---------------------------------------------------
+work_pass
+
+NAME: Larsen, Borek
+FIELD: Agriculture
+EXP: 1982.12.23
+
+passport
+
+NATION: Impor
+DOB: 1915.07.12
+SEX: M
+ISS: Tsunkeido
+ID#: Z6O4K-K9SKD
+EXP: 1983.09.29
+NAME: Larsen, Borek
+
+access_permit
+
+NAME: Larsen, Borek
+NATION: Impor
+ID#: Z6O4K-K9SKD
+PURPOSE: WORK
+DURATION: 1 MONTH
+HEIGHT: 148.0cm
+WEIGHT: 44.0kg
+EXP: 1985.06.26
+
+certificate_of_vaccination
+
+NAME: Larsen, Borek
+ID#: Z6O4K-K9SKD
+VACCINES: polio, HPV, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Antegria
+DOB: 1927.12.02
+SEX: F
+ISS: Outer Grouse
+ID#: T9REA-X4FA2
+EXP: 1984.11.04
+NAME: Evans, Freja
+
+access_permit
+
+NAME: Evans, Freja
+NATION: Antegria
+ID#: T9REA-X4FA2
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 152.0cm
+WEIGHT: 50.0kg
+EXP: 1981.06.23
+
+certificate_of_vaccination
+
+NAME: Evans, Freja
+ID#: T9REA-X4FA2
+VACCINES: polio, typhus, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1959.06.15
+SEX: F
+ISS: Lorndaz
+ID#: BGAS6-O5GT2
+EXP: 1985.07.08
+NAME: Karlsson, Erika
+
+access_permit
+
+NAME: Karlsson, Erika
+NATION: Obristan
+ID#: BGAS6-O5GT2
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 148.0cm
+WEIGHT: 44.0kg
+EXP: 1985.10.06
+
+---------------------------------------------------
+work_pass
+
+NAME: Aji, Romeo
+FIELD: Drafting
+EXP: 1985.04.26
+
+passport
+
+NATION: United Federation
+DOB: 1948.07.23
+SEX: M
+ISS: Shingleton
+ID#: DL90T-CIWD5
+EXP: 1984.01.10
+NAME: Aji, Romeo
+
+access_permit
+
+NAME: Aji, Romeo
+NATION: United Federation
+ID#: DL90T-CIWD5
+PURPOSE: WORK
+DURATION: 1 YEAR
+HEIGHT: 176.0cm
+WEIGHT: 84.0kg
+EXP: 1985.11.08
+
+certificate_of_vaccination
+
+NAME: Aji, Romeo
+ID#: DL90T-CIWD5
+VACCINES: tetanus, rubella, hepatitis B
+
+---------------------------------------------------
+work_pass
+
+NAME: Johannson, Felicia
+FIELD: Fine arts
+EXP: 1985.01.15
+
+passport
+
+NATION: Antegria
+DOB: 1962.08.19
+SEX: F
+ISS: Outer Grouse
+ID#: G0FZ8-C0IYR
+EXP: 1985.01.19
+NAME: Johannson, Felicia
+
+access_permit
+
+NAME: Johannson, Felicia
+NATION: Impor
+ID#: G0FZ8-C0IYR
+PURPOSE: WORK
+DURATION: 3 MONTHS
+HEIGHT: 173.0cm
+WEIGHT: 81.0kg
+EXP: 1985.11.01
+
+certificate_of_vaccination
+
+NAME: Johannson, Felicia
+ID#: G0FZ8-C0IYR
+VACCINES: polio, HPV, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1947.04.12
+SEX: F
+ISS: Enkyo
+ID#: MHDQB-ISA2E
+EXP: 1985.09.18
+NAME: Costa, Jessica
+
+access_permit
+
+NAME: Costa, Jessica
+NATION: Impor
+ID#: MHDQB-ISA2E
+PURPOSE: VISIT
+DURATION: 3 MONTHS
+HEIGHT: 154.0cm
+WEIGHT: 53.0kg
+EXP: 1985.08.20
+
+certificate_of_vaccination
+
+NAME: Costa, Jessica
+ID#: MHDQB-ISA2E
+VACCINES: rubella, tetanus, cholera
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1939.12.27
+SEX: M
+ISS: Paradizna
+ID#: V6X1N-K2XBJ
+EXP: 1985.06.14
+NAME: Michaelson, Dominik
+
+ID_card
+
+NAME: Michaelson, Dominik
+DOB: 1939.12.27
+HEIGHT: 147.0cm
+WEIGHT: 43.0kg
+
+---------------------------------------------------
+access_permit
+
+NAME: Romanoff, James
+NATION: Impor
+ID#: NED8N-N4L9E
+PURPOSE: VISIT
+DURATION: 14 DAYS
+HEIGHT: 149.0cm
+WEIGHT: 45.0kg
+EXP: 1984.03.05
+
+certificate_of_vaccination
+
+NAME: Romanoff, James
+ID#: NED8N-N4L9E
+VACCINES: hepatitis B, measles, HPV
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1927.03.06
+SEX: M
+ISS: Yurko City
+ID#: HL7LP-TKIFD
+EXP: 1983.09.09
+NAME: Seczek, Otto
+
+certificate_of_vaccination
+
+NAME: Seczek, Otto
+ID#: HL7LP-TKIFD
+VACCINES: HPV, cowpox, tetanus
+
+diplomatic_authorization
+
+NATION: Kolechia
+NAME: Seczek, Otto
+ID#: HL7LP-TKIFD
+ACCESS: Arstotzka, Antegria, Impor
+
+---------------------------------------------------
+December 5th, 1982
+Bulletin: 
+Allow citizens of Kolechia
+Deny citizens of Antegria
+Wanted by the State: Karl Tsarnaeva
+************************************************
+passport
+
+NATION: Impor
+DOB: 1933.06.21
+SEX: M
+ISS: Tsunkeido
+ID#: UBMUD-FBRLM
+EXP: 1982.07.08
+NAME: Frederikson, Dominik
+
+certificate_of_vaccination
+
+NAME: Frederikson, Dominik
+ID#: UBMUD-FBRLM
+VACCINES: cholera, rubella, tuberculosis
+
+---------------------------------------------------
+access_permit
+
+NAME: Weisz, Ava
+NATION: United Federation
+ID#: X13QD-NAW7D
+PURPOSE: VISIT
+DURATION: 2 MONTHS
+HEIGHT: 179.0cm
+WEIGHT: 90.0kg
+EXP: 1985.01.24
+
+certificate_of_vaccination
+
+NAME: Weisz, Ava
+ID#: A4A60-SBP5U
+VACCINES: polio, tetanus, typhus
+
+---------------------------------------------------
+passport
+
+NATION: Obristan
+DOB: 1938.06.23
+SEX: F
+ISS: Mergerous
+ID#: XAG8M-QFVHB
+EXP: 1982.11.30
+NAME: Schneider, Samantha
+
+access_permit
+
+NAME: Schneider, Samantha
+NATION: Obristan
+ID#: XAG8M-QFVHB
+PURPOSE: VISIT
+DURATION: 2 MONTHS
+HEIGHT: 161.0cm
+WEIGHT: 64.0kg
+EXP: 1981.03.14
+
+---------------------------------------------------
+passport
+
+NATION: Arstotzka
+DOB: 1944.04.24
+SEX: M
+ISS: Orvech Vonor
+ID#: KA27G-GBROE
+EXP: 1983.12.12
+NAME: Dimitrov, Sergey
+
+ID_card
+
+NAME: Dimitrov, Sergey
+DOB: 1944.04.24
+HEIGHT: 181.0cm
+WEIGHT: 93.0kg
+
+---------------------------------------------------
+passport
+
+NATION: Republia
+DOB: 1961.02.04
+SEX: M
+ISS: Lesrenadi
+ID#: UPOPA-KPLGM
+EXP: 1981.03.21
+NAME: Tsarnaeva, Karl
+
+access_permit
+
+NAME: Tsarnaeva, Karl
+NATION: Republia
+ID#: UPOPA-KPLGM
+PURPOSE: VISIT
+DURATION: 1 MONTH
+HEIGHT: 158.0cm
+WEIGHT: 58.0kg
+EXP: 1983.09.16
+
+---------------------------------------------------
+work_pass
+
+NAME: Diaz, Vadim
+FIELD: Dentistry
+EXP: 1982.06.21
+
+passport
+
+NATION: United Federation
+DOB: 1933.05.30
+SEX: M
+ISS: Korista City
+ID#: LCHYV-G752Z
+EXP: 1983.01.19
+NAME: Diaz, Vadim
+
+access_permit
+
+NAME: Diaz, Vadim
+NATION: Impor
+ID#: LCHYV-G752Z
+PURPOSE: WORK
+DURATION: 3 MONTHS
+HEIGHT: 160.0cm
+WEIGHT: 62.0kg
+EXP: 1985.02.25
+
+certificate_of_vaccination
+
+NAME: Diaz, Vadim
+ID#: LCHYV-G752Z
+VACCINES: polio, HPV, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1920.06.05
+SEX: F
+ISS: Great Rapid
+ID#: AFZS9-LEG0N
+EXP: 1985.10.28
+NAME: Khan, Hanna
+
+grant_of_asylum
+
+NAME: Khan, Hanna
+NATION: United Federation
+ID#: AFZS9-LEG0N
+DOB: 1920.06.05
+HEIGHT: 189.0cm
+WEIGHT: 104.0kg
+EXP: 1985.09.03
+
+certificate_of_vaccination
+
+NAME: Khan, Hanna
+ID#: AFZS9-LEG0N
+VACCINES: measles, HPV, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: Impor
+DOB: 1919.09.01
+SEX: M
+ISS: Haihan
+ID#: HGIUX-HYW4Y
+EXP: 1985.12.09
+NAME: Feyd, Calum
+
+access_permit
+
+NAME: Feyd, Calum
+NATION: Impor
+ID#: HGIUX-HYW4Y
+PURPOSE: VISIT
+DURATION: 2 MONTHS
+HEIGHT: 170.0cm
+WEIGHT: 76.0kg
+EXP: 1983.11.03
+
+certificate_of_vaccination
+
+NAME: Feyd, Calum
+ID#: HGIUX-HYW4Y
+VACCINES: polio, HPV, rubella
+
+---------------------------------------------------
+passport
+
+NATION: Kolechia
+DOB: 1936.02.14
+SEX: M
+ISS: West Grestin
+ID#: SHREE-HDFFW
+EXP: 1982.03.20
+NAME: Kremenliev, Jakob
+
+access_permit
+
+NAME: Kremenliev, Jakob
+NATION: Kolechia
+ID#: SHREE-HDFFW
+PURPOSE: VISIT
+DURATION: 3 MONTHS
+HEIGHT: 149.0cm
+WEIGHT: 46.0kg
+EXP: 1983.10.25
+
+certificate_of_vaccination
+
+NAME: Kremenliev, Jakob
+ID#: SHREE-HDFFW
+VACCINES: polio, HPV, cowpox
+
+---------------------------------------------------
+passport
+
+NATION: United Federation
+DOB: 1942.03.09
+SEX: M
+ISS: Shingleton
+ID#: MY3T7-FJWRD
+EXP: 1985.12.14
+NAME: Karnov, Luis
+
+diplomatic_authorization
+
+NATION: United Federation
+NAME: Karnov, Luis
+ID#: MY3T7-FJWRD
+ACCESS: Arstotzka, Impor, United Federation, Republia
